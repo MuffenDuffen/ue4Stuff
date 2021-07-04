@@ -1,12 +1,12 @@
-F:\Reps\ue4Stuff\ue4-Test1\ue4Test1\Intermediate\Build\Win64\UE4Editor\Development\ue4Test1\Definitions.ue4Test1.h
-F:\Reps\ue4Stuff\ue4-Test1\ue4Test1\Source\ue4Test1\ue4Test1Character.h
+F:\Reps\ue4Stuff\ue4Test1\Intermediate\Build\Win64\UE4Editor\Development\ue4Test1\Definitions.ue4Test1.h
+F:\Reps\ue4Stuff\ue4Test1\Source\ue4Test1\ue4Test1Character.h
 F:\Epic\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 F:\Epic\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
 F:\Epic\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
 F:\Epic\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 F:\Epic\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 F:\Epic\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-F:\Reps\ue4Stuff\ue4-Test1\ue4Test1\Intermediate\Build\Win64\UE4Editor\Inc\ue4Test1\ue4Test1Character.generated.h
+F:\Reps\ue4Stuff\ue4Test1\Intermediate\Build\Win64\UE4Editor\Inc\ue4Test1\ue4Test1Character.generated.h
 F:\Epic\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
 F:\Epic\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
 F:\Epic\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h

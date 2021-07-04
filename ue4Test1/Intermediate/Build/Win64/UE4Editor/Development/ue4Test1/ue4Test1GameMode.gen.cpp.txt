@@ -1,9 +1,9 @@
-F:\Reps\ue4Stuff\ue4-Test1\ue4Test1\Intermediate\Build\Win64\UE4Editor\Development\ue4Test1\Definitions.ue4Test1.h
+F:\Reps\ue4Stuff\ue4Test1\Intermediate\Build\Win64\UE4Editor\Development\ue4Test1\Definitions.ue4Test1.h
 F:\Epic\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 F:\Epic\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-F:\Reps\ue4Stuff\ue4-Test1\ue4Test1\Source\ue4Test1/ue4Test1GameMode.h
+F:\Reps\ue4Stuff\ue4Test1\Source\ue4Test1/ue4Test1GameMode.h
 F:\Epic\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 F:\Epic\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 F:\Epic\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 F:\Epic\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-F:\Reps\ue4Stuff\ue4-Test1\ue4Test1\Intermediate\Build\Win64\UE4Editor\Inc\ue4Test1\ue4Test1GameMode.generated.h
+F:\Reps\ue4Stuff\ue4Test1\Intermediate\Build\Win64\UE4Editor\Inc\ue4Test1\ue4Test1GameMode.generated.h

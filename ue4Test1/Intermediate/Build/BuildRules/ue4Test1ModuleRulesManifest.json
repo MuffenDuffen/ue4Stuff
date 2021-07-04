@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Reps\\ue4Stuff\\ue4Test1\\Source\\ue4Test1\\ue4Test1.Build.cs",
+		"F:\\Reps\\ue4Stuff\\ue4Test1\\Source\\ue4Test1.Target.cs",
+		"F:\\Reps\\ue4Stuff\\ue4Test1\\Source\\ue4Test1Editor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

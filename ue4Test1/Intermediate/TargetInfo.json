@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ue4Test1",
+			"Path": "F:\\Reps\\ue4Stuff\\ue4-Test1\\ue4Test1\\Source\\ue4Test1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ue4Test1Editor",
+			"Path": "F:\\Reps\\ue4Stuff\\ue4-Test1\\ue4Test1\\Source\\ue4Test1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

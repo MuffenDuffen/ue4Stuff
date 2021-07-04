@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ue4Test1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F0A08F43-6B10-4744-8B5C-98C181E0BA45}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ue4Test1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ue4Test1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{624A7753-D770-4EAE-BE11-9216009713BB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ue4Test1">
+      <UniqueIdentifier>{60660A5C-9050-4E4C-8B52-EDAA47B99896}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ue4Test1\ue4Test1.Build.cs">
+      <Filter>Source\ue4Test1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ue4Test1\ue4Test1.cpp">
+      <Filter>Source\ue4Test1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ue4Test1\ue4Test1.h">
+      <Filter>Source\ue4Test1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ue4Test1\ue4Test1Character.cpp">
+      <Filter>Source\ue4Test1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ue4Test1\ue4Test1Character.h">
+      <Filter>Source\ue4Test1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ue4Test1\ue4Test1GameMode.cpp">
+      <Filter>Source\ue4Test1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ue4Test1\ue4Test1GameMode.h">
+      <Filter>Source\ue4Test1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
